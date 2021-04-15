@@ -20,7 +20,7 @@ Fastv2 is an ultra-fast tool for identification of SARS-CoV-2 and other microbes
 * get Fastv2 and use following command for testing: 
 ```shell
 # make sure that SARS-CoV-2.kmer.fa and SARS-CoV-2.genomes.fa are in the ./data folder
-./Fastv2 -i testdata.fq.gz
+./fastv2 -i testdata.fq.gz
 ```
 
 # how it works?
